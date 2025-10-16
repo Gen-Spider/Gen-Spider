@@ -10,9 +10,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&color=FF6B6B&center=true&vCenter=true&width=520&height=40&lines=Innovation+Architect;Enterprise+Developer;Cloud+%26+DevOps+Engineer" alt="typing" />
 
-<!-- Thin divider (local, reliable) -->
-<img src="https://raw.githubusercontent.com/Gen-Spider/Gen-Spider/main/.assets/divider-gradient.png" width="600" alt="divider" />
-
 </div>
 
 ---
@@ -29,7 +26,6 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gen-Spider&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=Gen-Spider&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 <p align="center">
