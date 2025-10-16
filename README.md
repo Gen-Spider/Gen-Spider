@@ -8,14 +8,14 @@
 
 <!-- ANIMATED HEADER WITH TYPING EFFECT -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=false&width=600&height=70&lines=🕷️+Git-Spider;🚀+Innovation+Architect;⚡+Enterprise+Developer" alt="Git-Spider Animated Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=false&width=600&height=70&lines=🕷️+Git-Spider;🚀+Innovation+Architect;⚡+Enterprise+Developer" alt="Git-Spider Animated Title" />
 </h1>
 
 <!-- ANIMATED SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=2000&color=4ECDC4&center=true&vCenter=true&width=800&height=50&lines=Building+Enterprise+Solutions+🏗️;Crafting+Scalable+Architectures+📐;Weaving+the+Future+of+Technology+🕸️" alt="Professional Tagline" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=2000&color=4ECDC4&center=true&vCenter=true&width=800&height=50&lines=Building+Enterprise+Solutions+🏗️;Crafting+Scalable+Architectures+📐;Weaving+the+Future+of+Technology+🕸️" alt="Professional Tagline" />
 
 <!-- SPIDER WEB DIVIDER -->
-<img width="600" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer_header.png"/>
+<img width="600" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 </div>
 
@@ -26,10 +26,10 @@
 <div align="center">
 
 <!-- ANIMATED ROLE DISPLAY -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=💻+Full+Stack+Developer;🚀+Cloud+Architecture+Specialist;⚡+DevOps+%26+Automation+Expert;🎯+Enterprise+Solutions+Architect" alt="Professional Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=💻+Full+Stack+Developer;🚀+Cloud+Architecture+Specialist;⚡+DevOps+and+Automation+Expert;🎯+Enterprise+Solutions+Architect" alt="Professional Roles" />
 
-<!-- ANIMATED SPIDER EMOJI -->
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
+<!-- ANIMATED DEVELOPER GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80px">
 
 </div>
 
@@ -65,17 +65,25 @@
 
 <div align="center">
 
-<!-- GITHUB STATS WITH ANIMATIONS -->
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=Gen-Spider&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<table>
+<tr>
+<td>
 
-<img width="400" src="https://github-readme-streak-stats.demolab.com/?user=Gen-Spider&theme=tokyonight&hide_border=true&background=0d1117&stroke=ff6b6b&ring=4ecdc4&fire=45b7d1&currStreakLabel=96ceb4" alt="GitHub Streak"/>
+<!-- GITHUB STATS CARD -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gen-Spider&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9" alt="GitHub Stats"/>
 
-</div>
+</td>
+<td>
 
-<div align="center">
+<!-- STREAK STATS -->
+<img height="180em" src="https://streak-stats.demolab.com/?user=Gen-Spider&theme=tokyonight&hide_border=true&background=0d1117&stroke=ff6b6b&ring=4ecdc4&fire=45b7d1&currStreakLabel=96ceb4" alt="GitHub Streak"/>
 
-<!-- LANGUAGE STATS -->
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gen-Spider&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+<!-- TOP LANGUAGES -->
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gen-Spider&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8&exclude_repo=Gen-Spider" alt="Top Languages"/>
 
 </div>
 
@@ -155,6 +163,9 @@ graph TD
 <!-- CONTRIBUTION GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gen-Spider&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff6b6b&line=4ecdc4&point=45b7d1&area=true&area_color=96ceb4" width="100%" alt="Contribution Graph"/>
 
+<!-- ALTERNATIVE CONTRIBUTION DISPLAY -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gen-Spider&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
 </div>
 
 <div align="center">
@@ -204,14 +215,14 @@ graph TD
 
 <div align="center">
 
-<!-- ANIMATED SPIDER WEB FOOTER -->
+<!-- ANIMATED WAVE FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Weaving%20the%20Future&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 ### **💫 Transforming Ideas into Enterprise Solutions**
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=⚡+Always+innovating+•+Always+learning+•+Always+delivering+⚡;🕷️+In+the+web+of+technology%2C+every+connection+creates+possibilities+🕸️;🚀+Building+tomorrow's+solutions+with+today's+vision+✨" alt="Footer Message" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=⚡+Always+innovating+•+Always+learning+•+Always+delivering+⚡;🕷️+In+the+web+of+technology%2C+every+connection+creates+possibilities;🚀+Building+tomorrow's+solutions+with+today's+vision+✨" alt="Footer Message" />
 
-<!-- FINAL DECORATIVE ELEMENT -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+<!-- CODING ACTIVITY GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="Coding Activity"/>
 
 </div>
